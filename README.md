@@ -77,16 +77,21 @@
 
 ### 💼 Work Experience Highlight
 
-* **CNF System Co., Ltd.** | Backend Engineer *(2024.09 ~ Present)*
-  * Architected and modernized public-sector ERP backends using Java, Spring Boot, and eGovFrame.
-  * Optimized DB modeling & SQL query performance across multi-DB environments (MariaDB, Oracle, Tibero), improving response speed by 35% and reducing DB load by 20%.
-  * Implemented Circuit Breaker pattern to prevent cascading failures and enhance overall system resilience.
-  * Boosted development productivity by 20% by establishing automated workflows using GitHub Copilot and Claude CLI.
+#### **CNF System Co., Ltd.** `Backend Engineer` *(2024.09 ~ Present)*
+> Modernizing public-sector ERP architecture & optimizing multi-DB systems.
 
-* **GAILAB Inc.** | Backend & Full-Stack Engineer *(2023.05 ~ 2024.05)*
-  * Built high-performance REST APIs using Go (Fiber) with Goroutine-based asynchronous processing, reducing data processing time by 45%.
-  * Engineered a rule-engine-based commission calculation logic for insurance GA custom ERP platforms.
+* **Core Impact**: `Response Speed +35%` | `DB Load -20%` | `Productivity +20%`
+* Modernized public ERP backends with **Spring Boot** & **eGovFrame**.
+* Tuned SQL queries & DB modeling across **MariaDB**, **Oracle**, and **Tibero**.
+* Implemented **Circuit Breaker** patterns for fault isolation.
+* Streamlined AI-assisted workflows using **GitHub Copilot** & **Claude CLI**.
 
+#### **GAILAB Inc.** `Backend & Full-Stack Engineer` *(2023.05 ~ 2024.05)*
+> Building high-concurrency APIs & business rule engines for enterprise platforms.
+
+* **Core Impact**: `Data Processing Speed +45%`
+* Built concurrent REST APIs using **Go (Fiber)** & **Goroutines**.
+* Designed rule-engine commission calculation systems for Insurance GA ERPs.
 ---
 
 ### 🚀 Key Open Source & Personal Projects
