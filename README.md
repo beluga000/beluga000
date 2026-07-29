@@ -73,12 +73,12 @@
 
 ### 💼 Work Experience Highlight
 
-* **CNF System Co., Ltd.** | Senior Associate / Backend Developer *(2024.09 ~ Present)*
+* **CNF System Co., Ltd.** | Backend Engineer *(2024.09 ~ Present)*
   * Architected and modernized public-sector ERP backends using Java, Spring Boot, and eGovFrame.
   * Optimized DB modeling & SQL query performance across multi-DB environments (MariaDB, Oracle, Tibero), improving response speed by 35% and reducing DB load by 20%.
   * Implemented Circuit Breaker pattern to prevent cascading failures and enhance overall system resilience.
 
-* **GAILAB Inc.** | Senior Associate / Backend Developer *(2023.05 ~ 2024.05)*
+* **GAILAB Inc.** | Backend & Full-Stack Engineer *(2023.05 ~ 2024.05)*
   * Built high-performance REST APIs using Go (Fiber) with Goroutine-based asynchronous processing, reducing data processing time by 45%.
   * Engineered a rule-engine-based commission calculation logic for insurance GA custom ERP platforms.
 
