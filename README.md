@@ -75,25 +75,6 @@
 
 ---
 
-### 💼 Work Experience Highlight
-
-#### **CNF System Co., Ltd.** `Backend Engineer` *(2024.09 ~ Present)*
-> Modernizing public-sector ERP architecture & optimizing multi-DB systems.
-
-* **Core Impact**: `Response Speed +35%` | `DB Load -20%` | `Productivity +20%`
-* Modernized public ERP backends with **Spring Boot** & **eGovFrame**.
-* Tuned SQL queries & DB modeling across **MariaDB**, **Oracle**, and **Tibero**.
-* Implemented **Circuit Breaker** patterns for fault isolation.
-* Streamlined AI-assisted workflows using **GitHub Copilot** & **Claude CLI**.
-
-#### **GAILAB Inc.** `Backend & Full-Stack Engineer` *(2023.05 ~ 2024.05)*
-> Building high-concurrency APIs & business rule engines for enterprise platforms.
-
-* **Core Impact**: `Data Processing Speed +45%`
-* Built concurrent REST APIs using **Go (Fiber)** & **Goroutines**.
-* Designed rule-engine commission calculation systems for Insurance GA ERPs.
----
-
 ### 🚀 Key Open Source & Personal Projects
 
 | Project | Description | Tech Stack |
