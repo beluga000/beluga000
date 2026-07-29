@@ -30,12 +30,12 @@
   "location": "Seoul, South Korea",
   "philosophy": "Leveraging AI effectively while maintaining strict engineering rules & guardrails",
   "expertise": ["ERP System Architecture", "Data Modeling & Query Tuning", "Concurrency & Batch Processing"],
-  "productivity_tools": ["GitHub Copilot", "Claude CLI"]
+  "ai_tooling": ["Claude CLI", "AntiGravity CLI", "GitHub Copilot"]
 }
 ```
 
 - 💡 **Data-Driven & Rule-Guided**: Designing resilient backend architectures with a deep understanding of data flows, while adhering strictly to **engineering rules and guardrails**.
-- ⚡ **Productivity Boost**: Maximizing engineering efficiency and speed by actively integrating AI tools like GitHub Copilot and Claude CLI into everyday development workflows.
+- ⚡ **AI-Powered Productivity**: Maximizing engineering efficiency and workflow speed by actively integrating AI agent tools such as **Claude CLI**, **AntiGravity CLI**, and **GitHub Copilot**.
 - 🏢 **Professional Experience**: Specialized in public & enterprise ERP systems, large-scale data synchronization, batch automation, and fault-tolerant system design using Circuit Breakers.
 - 💬 **Ask Me About**: Java, Spring Boot, Go, Python, Multi-DB Modeling, REST API Design
 
@@ -64,10 +64,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### **Architecture & Tools**
+#### **AI Tools & Productivity**
+![Claude CLI](https://img.shields.io/badge/Claude_CLI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![AntiGravity CLI](https://img.shields.io/badge/AntiGravity_CLI-8B5CF6?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+#### **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
@@ -77,6 +81,7 @@
   * Architected and modernized public-sector ERP backends using Java, Spring Boot, and eGovFrame.
   * Optimized DB modeling & SQL query performance across multi-DB environments (MariaDB, Oracle, Tibero), improving response speed by 35% and reducing DB load by 20%.
   * Implemented Circuit Breaker pattern to prevent cascading failures and enhance overall system resilience.
+  * Boosted development productivity by 20% by establishing automated workflows using GitHub Copilot and Claude CLI.
 
 * **GAILAB Inc.** | Backend & Full-Stack Engineer *(2023.05 ~ 2024.05)*
   * Built high-performance REST APIs using Go (Fiber) with Goroutine-based asynchronous processing, reducing data processing time by 45%.
