@@ -75,6 +75,20 @@
 
 ---
 
+### 💼 Work Experience Highlight
+
+**CNF System Co., Ltd.** | Backend Engineer
+* **Public ERP Architecture**: Modernized enterprise-scale public backends using `Java`, `Spring Boot`, and `eGovFrame`.
+* **Multi-DB Optimization**: Modeled & tuned complex database queries across `MariaDB`, `Oracle`, and `Tibero` environments.
+* **Fault-Tolerant System Design**: Implemented `Circuit Breaker` pattern to isolate service failures and strengthen resilience.
+* **AI-Assisted Workflow**: Streamlined developer pipelines using `GitHub Copilot`, `Claude CLI`, and `AntiGravity CLI`.
+
+**GAILAB Inc.** | Backend & Full-Stack Engineer
+* **High-Concurrency API**: Engineered high-performance REST APIs leveraging `Go (Fiber)` and `Goroutine` async concurrency.
+* **Domain Engine Development**: Built rule-engine-based commission calculation logic for insurance GA platforms.
+
+---
+
 ### 🚀 Key Open Source & Personal Projects
 
 | Project | Description | Tech Stack |
