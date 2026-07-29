@@ -1,4 +1,4 @@
-# Hi there, I'm 김선우 (supersun) 👋
+# Hi there, I'm Sunwoo Kim (supersun) 👋
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ```json
 {
-  "name": "김선우 (supersun)",
+  "name": "Sunwoo Kim (supersun)",
   "role": "Backend Engineer",
   "location": "Seoul, South Korea",
   "philosophy": "Leveraging AI effectively while maintaining strict engineering rules & guardrails",
@@ -34,9 +34,9 @@
 }
 ```
 
-- 💡 **Data-Driven & Rule-Guided**: 데이터 흐름에 대한 깊은 이해를 바탕으로 아키텍처를 설계하며, **규칙과 가드레일**을 준수하는 안정적인 서비스를 만듭니다.
-- ⚡ **Productivity Boost**: GitHub Copilot, Claude CLI 등의 AI 도구를 적극 활용하여 개발 생산성을 끌어올립니다.
-- 🏢 **Professional Experience**: 공공/민간 ERP 시스템 구축, 대용량 데이터 동기화, 배치 프로세스 자동화, Circuit Breaker 기반 장애 격리 구조 경험 보유.
+- 💡 **Data-Driven & Rule-Guided**: Designing resilient backend architectures with a deep understanding of data flows, while adhering strictly to **engineering rules and guardrails**.
+- ⚡ **Productivity Boost**: Maximizing engineering efficiency and speed by actively integrating AI tools like GitHub Copilot and Claude CLI into everyday development workflows.
+- 🏢 **Professional Experience**: Specialized in public & enterprise ERP systems, large-scale data synchronization, batch automation, and fault-tolerant system design using Circuit Breakers.
 - 💬 **Ask Me About**: Java, Spring Boot, Go, Python, Multi-DB Modeling, REST API Design
 
 ---
@@ -73,14 +73,14 @@
 
 ### 💼 Work Experience Highlight
 
-* **씨앤에프시스템(주)** | 주임 / Backend Developer *(2024.09 ~ 재직중)*
-  * Java, Spring Boot, eGovFrame 기반 공공기관 ERP 백엔드 아키텍처 설계 및 고도화
-  * MariaDB, Oracle, Tibero 등 멀티 DB 환경 쿼리 튜닝 (응답 속도 35% 개선, 부하 20% 절감)
-  * Circuit Breaker 도입을 통한 장애 연쇄 전파 방지 및 안정성 확보
+* **CNF System Co., Ltd.** | Senior Associate / Backend Developer *(2024.09 ~ Present)*
+  * Architected and modernized public-sector ERP backends using Java, Spring Boot, and eGovFrame.
+  * Optimized DB modeling & SQL query performance across multi-DB environments (MariaDB, Oracle, Tibero), improving response speed by 35% and reducing DB load by 20%.
+  * Implemented Circuit Breaker pattern to prevent cascading failures and enhance overall system resilience.
 
-* **가이랩(주)** | 주임 / Backend Developer *(2023.05 ~ 2024.05)*
-  * Go(Fiber) 기반 REST API 설계 및 Goroutine 고성능 비동기 병렬 처리 적용 (처리 시간 45% 단축)
-  * 보험 GA 대상 ERP 시스템 맞춤형 룰 엔진 기반 수수료 정산 로직 구현
+* **GAILAB Inc.** | Senior Associate / Backend Developer *(2023.05 ~ 2024.05)*
+  * Built high-performance REST APIs using Go (Fiber) with Goroutine-based asynchronous processing, reducing data processing time by 45%.
+  * Engineered a rule-engine-based commission calculation logic for insurance GA custom ERP platforms.
 
 ---
 
@@ -88,8 +88,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📌 **[svn-graph-extension](https://github.com/beluga000/svn-graph-extension)** | Git Graph에서 영감을 받은 VS Code용 SVN 커밋 내역 및 브랜치 시각화 확장 프로그램 | `TypeScript`, `VS Code API`, `Git/SVN` |
-| 📈 **[if (What IF Stock Simulator)](https://github.com/beluga000/if)** | 전 세계 주식 데이터 기반의 백테스팅 및 포트폴리오 시뮬레이터 서비스 | `Java`, `Spring Boot`, `Python`, `Database` |
+| 📌 **[svn-graph-extension](https://github.com/beluga000/svn-graph-extension)** | VS Code extension for SVN commit graph and branch visualization, inspired by Git Graph | `TypeScript`, `VS Code API`, `Git/SVN` |
+| 📈 **[if (What IF Stock Simulator)](https://github.com/beluga000/if)** | Global stock backtesting and portfolio simulation service | `Java`, `Spring Boot`, `Python`, `Database` |
 
 ---
 
