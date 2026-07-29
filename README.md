@@ -1,4 +1,4 @@
-# Hi there, I'm Sunwoo Kim (supersun) 👋
+# Hi there, I'm supersun 👋
 
 <div align="center">
 
@@ -25,7 +25,8 @@
 
 ```json
 {
-  "name": "Sunwoo Kim (supersun)",
+  "username": "beluga000",
+  "alias": "supersun",
   "role": "Backend Engineer",
   "location": "Seoul, South Korea",
   "philosophy": "Leveraging AI effectively while maintaining strict engineering rules & guardrails",
