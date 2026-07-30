@@ -94,9 +94,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| ⚡ **[FlashQueue](https://github.com/beluga000/FlashQueue)** | High-throughput (24,500+ TPS) event & ticket queue engine with zero over-issuing and zero data loss | `Java 17`, `Spring Boot`, `Redis (Lua)`, `Kafka`, `PostgreSQL` |
 | 📌 **[svn-graph-extension](https://github.com/beluga000/svn-graph-extension)** | VS Code extension for SVN commit graph and branch visualization, inspired by Git Graph | `TypeScript`, `VS Code API`, `Git/SVN` |
 | 📈 **[if (What IF Stock Simulator)](https://github.com/beluga000/if)** | Global stock backtesting and portfolio simulation service | `Java`, `Spring Boot`, `Python`, `Database` |
-
 ---
 
 ### 📊 GitHub Analytics
