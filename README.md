@@ -57,6 +57,7 @@
 ![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### **Databases**
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -73,6 +74,8 @@
 #### **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -94,6 +97,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 💰 **[FinLog](https://github.com/beluga000/FinLog)** | Household finance PWA for couples & individuals — on-device OCR capture of card receipts (images never leave the phone), 30-day account balance forecast with card bills & installments, goal-based savings simulation, and per-partner privacy scopes | `Next.js 15`, `React 19`, `TypeScript`, `Prisma`, `PostgreSQL (Neon)`, `Tesseract.js`, `Vercel` |
 | ⚡ **[FlashQueue](https://github.com/beluga000/FlashQueue)** | High-throughput (24,500+ TPS) event & ticket queue engine with zero over-issuing and zero data loss | `Java 17`, `Spring Boot`, `Redis (Lua)`, `Kafka`, `PostgreSQL` |
 | 📌 **[svn-graph-extension](https://github.com/beluga000/svn-graph-extension)** | VS Code extension for SVN commit graph and branch visualization, inspired by Git Graph | `TypeScript`, `VS Code API`, `Git/SVN` |
 | 📈 **[if (What IF Stock Simulator)](https://github.com/beluga000/if)** | Global stock backtesting and portfolio simulation service | `Java`, `Spring Boot`, `Python`, `Database` |
